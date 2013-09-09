@@ -9,7 +9,7 @@ README:   Kinect Capture for manipulation
 Copyright (c) 2011-2012   
 
    
-Description: This project displays grabs the kinect rgb and depth streams. 
+Description: This project grabs the kinect rgb and depth streams. 
 I used to display those streams opencv library that you can find here:
 http://opencv.org/downloads.html
 Also you need to install openni and Kinect drivers. Visit this website and follow steps to install:
