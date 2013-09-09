@@ -1,7 +1,7 @@
 /*Author: Younesse ANDAM 2011-2012*/
 /* This is a simple project to grab the content (depth and RGB).*/
 /*It may be useful for people who want to figure out how to display the data, and apply some 
-operation on them*/ 
+operations on them using the opencv functionnalities*/
 /*Enjoy*/
 
 #include "XnCppWrapper.h"
